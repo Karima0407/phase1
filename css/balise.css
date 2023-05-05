@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(206, 136, 46);
+}
+main {
+  background-color: blueviolet;
+}
+
+.section1 {
+  background-color: rgb(148, 12, 39);
+  height: 70px;
+}
+.section2{
+    background-color: brown;
+}
+.section3{
+    background-color: blue;
+}
+header{
+    background-color: red;
+    height: 90px;
+}
+.section4{
+    background-color: aqua;
+}
+.section5{
+    background-color: aquamarine;
+}
+.section6{
+    background-color: crimson;
+}
+.section7{
+    background-color: darksalmon;
+}
+.section8{
+    background-color: darkseagreen;
+}
+footer{
+
+}
