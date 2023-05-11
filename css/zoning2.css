@@ -1,0 +1,46 @@
+#conteneur{
+    width: 80%;
+    border: 1px solid black;
+    margin: auto;
+}
+header{
+    height: 60px;
+    background-color: rgb(255, 0, 234);
+}
+p{
+    margin: 0%;
+}
+nav{
+    background-color: #4a1a2c;
+}
+body{
+    color: white;
+}
+main{
+    padding: 5px;
+    /* min-height: 100px; */
+   
+}
+section{
+    background-color: orange;
+    
+    height: 200px;
+
+}
+div.dim{
+    width: 50%;
+    height: 200px;
+    float: left;
+}
+.bordeau{
+    background-color: #4a1a2c;
+}
+.vert-fonce{
+    background-color: #787746;
+}
+.vert-claire{
+background-color: #e6e2af;
+}
+.bleu{
+   background-color:  #add8e6;
+}

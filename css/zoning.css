@@ -1,0 +1,33 @@
+body{
+    
+    width: 90%;
+    margin: auto;
+    border: 1px solid black;
+}
+p{
+    color: white;
+    text-align: center;
+}
+.section{
+    background-color: brown;
+    border: ;
+}
+.couleur2{
+     background-color:olive;
+    height: 500px;
+}
+header{
+    background-color: fuchsia;
+    height: 80px;
+}
+footer{
+    background-color: fuchsia;
+    height: 80px;
+}
+nav{
+    background-color: #4a1a2c;
+    height: 40px;
+    color: #fff;
+    padding-left: 20px;
+    padding-top: 6px;
+}
